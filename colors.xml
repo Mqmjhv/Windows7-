@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="win7_blue">#1C6EC4</color>
+    <color name="win7_taskbar">#1A3B5C</color>
+    <color name="start_bg">#E8F0F8</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+</resources>
